@@ -11,6 +11,7 @@ Robot de trading quantitatif avancé combinant mean-reversion, filtrage de Kalma
 - Gestion multi-positions
 - Couverture locale delta
 - Temps d'arrêt optimal
+- Hedging et coverage sur paires corrélées
 
 ## Prérequis
 
